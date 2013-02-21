@@ -9,7 +9,7 @@
  */
 
 $lang = array();
-$lang['title'] = '灵感机器人';
+$lang['title'] = '灵感聊天室';
 $lang['userName'] = '用户名';
 $lang['password'] = '密码';
 $lang['startChat'] = '开始聊天';

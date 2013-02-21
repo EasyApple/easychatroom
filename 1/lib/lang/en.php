@@ -8,7 +8,7 @@
  */
 
 $lang = array();
-$lang['title'] = 'EasyRobot';
+$lang['title'] = 'EasyChatroom';
 $lang['userName'] = 'Username';
 $lang['password'] = 'Password';
 $lang['login'] = 'Login';
